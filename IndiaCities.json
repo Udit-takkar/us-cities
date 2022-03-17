@@ -1,19 +1,5 @@
 [
   {
-    "id": 118852,
-    "wikiDataId": "Q128295",
-    "type": "CITY",
-    "city": "Abilene",
-    "name": "Abilene",
-    "country": "United States of America",
-    "countryCode": "US",
-    "region": "Texas",
-    "regionCode": "TX",
-    "latitude": 32.446388888,
-    "longitude": -99.745555555,
-    "population": 125182
-  },
-  {
     "id": 57561,
     "wikiDataId": "Q490878",
     "type": "CITY",
